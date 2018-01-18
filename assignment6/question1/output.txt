@@ -1,0 +1,9 @@
+Script started on Mon 27 Mar 2017 11:46:59 PM NDT
+]0;brandon@brandon-Satellite-P850 ~/Documents/cs2510/assignment6/question1[01;32mbrandon@brandon-Satellite-P850[00m [01;34m~/Documents/cs2510/assignment6/question1 $[00m exit./questtion2[A]0;brandon@brandon-Satellite-P850 ~/Documents/cs2510/assignment6/question1[01;32mbrandon@brandon-Satellite-P850[00m [01;34m~/Documents/cs2510/assignment6/question1 $[00m zip -R assignment5.zip assignment5 "*.java" "*.txt"[A]0;brandon@brandon-Satellite-P850 ~/Documents/cs2510/assignment6/question1[01;32mbrandon@brandon-Satellite-P850[00m [01;34m~/Documents/cs2510/assignment6/question1 $[00m ./question2[K[A]0;brandon@brandon-Satellite-P850 ~/Documents/cs2510/assignment6/question1[01;32mbrandon@brandon-Satellite-P850[00m [01;34m~/Documents/cs2510/assignment6/question1 $[00m [2Pexit
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K./ques tion1
+Does the appointment occur on 15/9/2017?: Yes
+Does the onetime appointment occur on 15/9/2017?: Yes
+]0;brandon@brandon-Satellite-P850 ~/Documents/cs2510/assignment6/question1[01;32mbrandon@brandon-Satellite-P850[00m [01;34m~/Documents/cs2510/assignment6/question1 $[00m exit
+exit
+
+Script done on Mon 27 Mar 2017 11:47:11 PM NDT

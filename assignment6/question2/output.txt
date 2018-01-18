@@ -1,0 +1,19 @@
+Script started on Mon 27 Mar 2017 11:19:33 PM NDT
+]0;brandon@brandon-Satellite-P850 ~/Documents/cs2510/assignment6/question2[01;32mbrandon@brandon-Satellite-P850[00m [01;34m~/Documents/cs2510/assignment6/question2 $[00m zip -R  assignment5.zip assignment5 "*.java" "*.txt"[A]0;brandon@brandon-Satellite-P850 ~/Documents/cs2510/assignment6/question2[01;32mbrandon@brandon-Satellite-P850[00m [01;34m~/Documents/cs2510/assignment6/question2 $[00m cd ~/Do[18Pcuments/cs2711/assignment5[A]0;brandon@brandon-Satellite-P850 ~/Documents/cs2510/assignment6/question2[01;32mbrandon@brandon-Satellite-P850[00m [01;34m~/Documents/cs2510/assignment6/question2 $[00m zip -R assignment5.zip assignment5 "*.java" "*.txt"[A]0;brandon@brandon-Satellite-P850 ~/Documents/cs2510/assignment6/question2[01;32mbrandon@brandon-Satellite-P850[00m [01;34m~/Documents/cs2510/assignment6/question2 $[00m [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./ques tion2
+Contents of invertebrates linked list is: 
+Arachinids Fish Crustaceans Insects 
+
+Contents of vertebrates linked list is: 
+Mammels Reptiles Bird 
+
+Contents of invertebrates linked list after erasing "fish" is: 
+Arachinids Crustaceans Insects 
+
+Contents of vertebrates linked list after taking "fish" from invertebrates and adding it to this list is: 
+Mammels Fish Reptiles Bird 
+
+]0;brandon@brandon-Satellite-P850 ~/Documents/cs2510/assignment6/question2[01;32mbrandon@brandon-Satellite-P850[00m [01;34m~/Documents/cs2510/assignment6/question2 $[00m exit
+exit
+
+Script done on Mon 27 Mar 2017 11:19:44 PM NDT
