@@ -1,0 +1,17 @@
+Script started on Thu 06 Oct 2016 09:54:23 PM NDT
+]0;brandon@brandon-Satellite-P850 ~/Documents/CS2710/ASSIGNMENT_TWO/Assignment2/numberTwo[01;32mbrandon@brandon-Satellite-P850[00m [01;34m~/Documents/CS2710/ASSIGNMENT_TWO/Assignment2/numberTwo $[00m exitjava CampTesterexit[K[Kexitjava CampTesterzip -r assignmentTwo.zip Assignment2 *.java *.txtjava CampTester[Kexit[K[Kjava p[KPolygonTester
+Triangle:
+Area = 6.00
+Perimeter = 12.00
+
+Non-Right Triangle:
+Area = 6.75
+Perimeter = 12.00
+
+Rectangle:
+Area = 35.00
+Perimeter = 24.00
+]0;brandon@brandon-Satellite-P850 ~/Documents/CS2710/ASSIGNMENT_TWO/Assignment2/numberTwo[01;32mbrandon@brandon-Satellite-P850[00m [01;34m~/Documents/CS2710/ASSIGNMENT_TWO/Assignment2/numberTwo $[00m exit
+exit
+
+Script done on Thu 06 Oct 2016 09:54:41 PM NDT

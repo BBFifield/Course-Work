@@ -1,0 +1,111 @@
+Script started on Thu 22 Sep 2016 01:29:22 AM NDT
+]0;brandon@brandon-Satellite-P850 ~/Documents/CS2710/ASSIGNMENT_ONE/forCommandLine[01;32mbrandon@brandon-Satellite-P850[00m [01;34m~/Documents/CS2710/ASSIGNMENT_ONE/forCommandLine $[00m javac Trailer.java TrailerTester.java
+]0;brandon@brandon-Satellite-P850 ~/Documents/CS2710/ASSIGNMENT_ONE/forCommandLine[01;32mbrandon@brandon-Satellite-P850[00m [01;34m~/Documents/CS2710/ASSIGNMENT_ONE/forCommandLine $[00m java Trailertester[K[K[K[K[K[KTester
+Name: BALD
+Telephone number: 1-709-470-8744
+license plate number: ABC123
+Length of trailer: 30.0
+Building number: 1
+Date put in storage: JUNE 30, 2016
+Date to be removed: SEPTEMBER 30, 2016
+Seasonal charge: $1035.00 
+
+Name: CAL
+Telephone number: 1-709-470-1234
+license plate number: BCD287
+Length of trailer: 35.0
+Building number: 2
+Date put in storage: AUGUST 6, 2015
+Date to be removed: SEPTEMBER 20, 2016
+Seasonal charge: $1207.50 
+
+Name: DAD
+Telephone number: 1-709-470-2876
+license plate number: CDE309
+Length of trailer: 20.0
+Building number: 3
+Date put in storage: APRIL 1ST, 2016
+Date to be removed: SEPTEMBER 1, 2016
+Seasonal charge: $690.00  
+
+Name: ELI
+Telephone number: 1-709-470-3122
+license plate number: DJH567
+Length of trailer: 25.0
+Building number: 4
+Date put in storage: MARCH 3, 2016
+Date to be removed: SEPTEMBER 30, 2016
+Seasonal charge: $862.50  
+
+Name: FINLEY
+Telephone number: 1-709-470-4512
+license plate number: AOC1BO
+Length of trailer: 23.0
+Building number: 1
+Date put in storage: DECMBER 25, 2015
+Date to be removed: DECEMBER 1, 2016
+Seasonal charge: $793.50  
+
+Name: GARY
+Telephone number: 1-709-470-5432
+license plate number: HGDF76
+Length of trailer: 33.0
+Building number: 2
+Date put in storage: JANUARY 30, 2016
+Date to be removed: SEPTEMBER 2, 2016
+Seasonal charge: $1138.50 
+
+Name: HEISENBERG
+Telephone number: 1-709-470-6009
+license plate number: COOK01
+Length of trailer: 28.0
+Building number: 3
+Date put in storage: JUNE 21, 2008
+Date to be removed: JULY 12, 2013
+Seasonal charge: $966.00  
+
+Name: IAN
+Telephone number: 1-709-470-0001
+license plate number: GTFOYO
+Length of trailer: 30.0
+Building number: 4
+Date put in storage: FEBRUARY 30, 2016
+Date to be removed: OCTOBER 4, 2016
+Seasonal charge: $1035.00 
+
+Name: JESSE
+Telephone number: 1-709-470-9998
+license plate number: COOK02
+Length of trailer: 26.0
+Building number: 1
+Date put in storage: MARCH 5, 2016
+Date to be removed: DECEMBER 8, 2016
+Seasonal charge: $897.00  
+
+Name: KRAZY8
+Telephone number: 1-709-470-5444
+license plate number: MOREPS
+Length of trailer: 36.0
+Building number: 2
+Date put in storage: SEPTEMBER 3, 2016
+Date to be removed: SEPTEMBER 30, 2016
+Seasonal charge: $1242.00 
+
+Number of trailers greater than 30 feet in length: 3
+Number of trailers in each building: 
+Building 1: 3
+Building 2: 3
+Building 3: 2
+Building 4: 2
+Total income for the facility for all trailers: 9867.00 
+In the form MONTH DD, YYYY. Input three dates to see if they match any records of dates trailers are to be removed: (Ex: SEPTEMBER 30TH, 2016)
+September 30, 2016
+March 12, 1 2016
+December 16, 2016  15
+September 30, 2016 matches the removal date of BALD's trailer. 
+September 30, 2016 matches the removal date of ELI's trailer. 
+September 30, 2016 matches the removal date of KRAZY8's trailer. 
+]0;brandon@brandon-Satellite-P850 ~/Documents/CS2710/ASSIGNMENT_ONE/forCommandLine[01;32mbrandon@brandon-Satellite-P850[00m [01;34m~/Documents/CS2710/ASSIGNMENT_ONE/forCommandLine $[00m exit
+exit
+
+Script done on Thu 22 Sep 2016 01:30:14 AM NDT

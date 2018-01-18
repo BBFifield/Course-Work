@@ -1,0 +1,8 @@
+Hello, My name is Brandon. I live in {St.John's, Newfoundland}.
+
+The date is February 2nd, 2017, and it is a {chilly day}.
+
+What am I typing? I am typing a document to be used for my {Computer Science} 2711 assignment.
+What assignment you may ask? Assignment {2}.
+
+For what question you may ask? {It is} question 2.

@@ -1,0 +1,96 @@
+Script started on Thu 06 Oct 2016 09:52:54 PM NDT
+]0;brandon@brandon-Satellite-P850 ~/Documents/CS2710/ASSIGNMENT_TWO/Assignment2/numberOne[01;32mbrandon@brandon-Satellite-P850[00m [01;34m~/Documents/CS2710/ASSIGNMENT_TWO/Assignment2/numberOne $[00m java camp[K[K[K[KCampTester
+Park name: Dungeon Provincial Park
+Province: NL
+Cost per night: $39.00
+
+Park name: Terra Nova National Park
+Province: NL
+Cost per night: $50.00
+Campground name: Campground 1
+Site number: 5
+Firepit: Yes
+
+Park name: Terra Nova National Park
+Province: NL
+Cost per night: $50.00
+Campground name: Campground 2
+Site number: 6
+Firepit: Yes
+
+Park name: Blah Park
+Province: NL
+Cost per night: $50.00
+Campground name: Campground 1
+Site number: 5
+Firepit: No
+
+Park name: Gros Morne National Park
+Province: NL
+Cost per night: $20.00
+Location: Back Yard
+Mode of Travel: Hike
+
+Park name: Gros Morne National Park
+Province: NL
+Cost per night: $20.00
+Location: Back Yard Number 2
+Mode of Travel: Hike
+
+Park name: Terra Nova National Park
+Province: NL
+Cost per night: $90.00
+Campground name: Newman Sound
+Site number: 3
+Firepit: Yes
+Amp Service: 30
+Water Service: Yes
+
+Park name: Terra Nova National Park
+Province: NL
+Cost per night: $80.00
+Campground name: Newman Sound
+Site number: 4
+Firepit: Yes
+Amp Service: 15
+Water Service: Yes
+
+Park name: Terra Nova National Park
+Province: NL
+Cost per night: $25.00
+Campground name: Malady Head
+Site number: 22
+Firepit: Yes
+Generator Usage: Yes
+
+Park name: Terra Nova National Park
+Province: NL
+Cost per night: $25.00
+Campground name: Malady Head
+Site number: 44
+Firepit: Yes
+Generator Usage: Yes
+
+Park name: Terra Nova National Park
+Province: NL
+Cost per night: $25.00
+Campground name: Catalina
+Site number: 66
+Firepit: Yes
+Generator Usage: Yes
+
+
+The number of Front Country sites in Terra Nova National Park, NL: 2
+The number of serviced sites in Newman Sound, Terra Nova National Park: 1
+
+The locations of all Back Country sites in Gros Morne National Park, NL:
+Back Yard
+Back Yard Number 2
+
+By site number, a list of all the unserviced sites in Malady Head, Terra Nova National Park, Newfoundland and Labrador:
+22
+44
+]0;brandon@brandon-Satellite-P850 ~/Documents/CS2710/ASSIGNMENT_TWO/Assignment2/numberOne[01;32mbrandon@brandon-Satellite-P850[00m [01;34m~/Documents/CS2710/ASSIGNMENT_TWO/Assignment2/numberOne $[00m exit
+exit
+
+Script done on Thu 06 Oct 2016 09:53:12 PM NDT

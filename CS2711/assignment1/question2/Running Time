@@ -1,0 +1,38 @@
+Question#2 of Assignment One for Computer Science 2711.
+
+Determine the running time T(n) and worst-case time complexity for the following algorithm. Show all your calculations.
+
+input n                             // At most 1
+total1 = 0                          // At most 1
+
+for (i = 1; i < n; i++) {           // 1  n  (n-1)
+  input aNumber                     // (n-1)
+  if (aNumber > 0) {                // At most (n-1)
+    total1 = total1 + 1             // At most (n-1)
+  }
+
+  total2 = 0                        // (n-1)
+  for (j = i; j <= n; j++) {        // (n-1)  ([(n-1)^2]/2 + 5(n-1)/2)  ([(n-1)^2]/2 + 3(n-1)/2)
+    total2 = total2 + j             // ([(n-1)^2]/2 + 3(n-1)/2)
+  }
+  output total2                     // (n-1)
+}
+output total1                       // At most 1
+
+
+Running time function T(n):
+
+T(n) = 1 + 1 + 1 + n + (n-1) + (n-1) + (n-1) + (n-1) + (n-1) + (n-1) + (n^2)/2 - n + 1/2 + 5n/2 - 5/2 + (n^2)/2 -
+       n + 1/2 + 3n/2 - 3/2 + (n^2)/2 - n + 1/2 + 3n/2 - 3/2 + n - 1 + 1
+
+     = (3n^2)/2  +  21n/2  -  7
+
+
+n | T(n) = (3n^2)/2 + 21n/2 - 7 | Cn^2 with C = 4 (4n^2)
+__|_____________________________|____________________
+1 | 17/2                        | 4
+2 | 20                          | 16
+3 | 38                          | 36
+4 | 59                          | 64
+
+Since T(n) <= 4n^2 for n > 3, T(n) is O(n^2). Worst - case time complexity is O(n^2).
